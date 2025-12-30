@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Design Fundamentals
+# 🎨 Design Fundamentals
 
 ### Programa de Formação em Design do Bitcoin Creative
 
@@ -23,41 +23,41 @@
 
 <br>
 
-[ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/)  [ Releases](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases)  [ Design System](https://github.com/Bitcoin-Creative/Design-System)  [ GitHub Pages](https://bitcoin-creative.github.io/Design-Fundamentals/)
+[📚 Ver na Biblioteca](https://bitcoincreative.org/biblioteca/) · [📦 Releases](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases) · [🎨 Design System](https://github.com/Bitcoin-Creative/Design-System) · [🌐 GitHub Pages](https://bitcoin-creative.github.io/Design-Fundamentals/)
 
 </div>
 
 ---
 
-##  Sobre o Bitcoin Creative
+## 🧡 Sobre o Bitcoin Creative
 
 > **Somos um studio-lab open source que forma, conecta e impulsiona profissionais nas áreas de design, inteligência artificial e marketing com foco na indústria do Bitcoin.**
 
 Nossa missão é capacitar criadores e estrategistas com conhecimento técnico, visão de mercado e projetos práticos que contribuam para tornar o **Bitcoin mais compreensível, acessível e presente no mundo**.
 
-###  Nossa Filosofia
+### ✨ Nossa Filosofia
 
 | | Pilar | Descrição |
 |:---:|-------|-----------|
-|  | **Treinamento com especialistas** | Domine as habilidades que a indústria do Bitcoin precisa |
-|  | **Aprenda projetando** | Cada programa tem teoria e prática, para você aprender fazendo |
-|  | **Acelere sua carreira** | Ganhe certificados confiáveis pelas melhores equipes do setor |
-|  | **Prêmio em Bitcoin** | O projeto final em destaque recebe premiação em Bitcoin |
+| 🎓 | **Treinamento com especialistas** | Domine as habilidades que a indústria do Bitcoin precisa |
+| 🛠️ | **Aprenda projetando** | Cada programa tem teoria e prática, para você aprender fazendo |
+| 🚀 | **Acelere sua carreira** | Ganhe certificados confiáveis pelas melhores equipes do setor |
+| ₿ | **Prêmio em Bitcoin** | O projeto final em destaque recebe premiação em Bitcoin |
 
 ---
 
-##  Sobre o Programa
+## 📖 Sobre o Programa
 
 O **Design Fundamentals** é o primeiro programa educacional do Bitcoin Creative, capacitando designers e criativos a compreenderem e se conectarem com o ecossistema Bitcoin.
 
 ### O que os participantes aprenderam:
 
--  Fundamentos do Bitcoin e sua filosofia
--  Princípios de design aplicados ao ecossistema Bitcoin  
--  Ferramentas e técnicas para criação visual
--  Como comunicar conceitos complexos de forma acessível
+- ₿ Fundamentos do Bitcoin e sua filosofia
+- 🎨 Princípios de design aplicados ao ecossistema Bitcoin  
+- 🛠️ Ferramentas e técnicas para criação visual
+- 💬 Como comunicar conceitos complexos de forma acessível
 
-###  Projeto Final
+### 🏆 Projeto Final
 
 Como parte da conclusão do programa, cada participante desenvolveu um **projeto original** que combina seus conhecimentos de design com os princípios aprendidos sobre Bitcoin. 
 
@@ -65,185 +65,185 @@ Como parte da conclusão do programa, cada participante desenvolveu um **projeto
 
 ---
 
-##  Downloads Rápidos
+## 📦 Downloads Rápidos
 
 > **Quer baixar os projetos sem usar Git?** Acesse a seção [Releases](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases) para downloads diretos em ZIP.
 
 | Release | Descrição |
 |---------|-----------|
-| [ Todos os Projetos](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases) | Pacote completo com todos os 14 projetos |
-|  Projetos Individuais | Downloads separados por projeto |
+| [📦 Todos os Projetos](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases) | Pacote completo com todos os 14 projetos |
+| 📁 Projetos Individuais | Downloads separados por projeto |
 
 ---
 
-##  Projetos dos Participantes
+## 🎯 Projetos dos Participantes
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###  Bitcoin Wiki
+### 📖 Bitcoin Wiki
 **Autor:** Tiago Katsumi  
 **Tipo:** Redesign de Site
 
 > Portal de conteúdo e referência sobre Bitcoin focado em organizar conhecimento e ajudar no onboarding de novos usuários, com identidade visual vintage e emocional.
 
-[ Ver Arquivos](./projetos/bitcoin-wiki-tiago)  [ Biblioteca](https://bitcoincreative.org/biblioteca/bitcoin-wiki-redesign/)
+[📁 Ver Arquivos](./projetos/bitcoin-wiki-tiago) · [🌐 Biblioteca](https://bitcoincreative.org/biblioteca/bitcoin-wiki-redesign/)
 
 </td>
 <td width="50%" valign="top">
 
-###  BitGrow
+### 📈 BitGrow
 **Autora:** Bruna Czarnobay  
 **Tipo:** App Design
 
 > App de educação financeira familiar com foco em Bitcoin, para ajudar pais e responsáveis a ensinar os filhos a proteger e administrar valor.
 
-[ Ver Arquivos](./projetos/bitgrow-bruna)  [ Biblioteca](https://bitcoincreative.org/biblioteca/bitgrow-app/)
+[📁 Ver Arquivos](./projetos/bitgrow-bruna) · [🌐 Biblioteca](https://bitcoincreative.org/biblioteca/bitgrow-app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  ColdKeys
+### 🔐 ColdKeys
 **Autor:** Lucas Leite  
 **Tipo:** App Design
 
 > App simples para auto custódia e assinatura de transações em modo totalmente offline, transformando Android em dispositivo de assinatura seguro.
 
-[ Ver Arquivos](./projetos/coldkeys-lucas)  [ Biblioteca](https://bitcoincreative.org/biblioteca/coldkeys-app-de-auto-custodia/)
+[📁 Ver Arquivos](./projetos/coldkeys-lucas) · [🌐 Biblioteca](https://bitcoincreative.org/biblioteca/coldkeys-app-de-auto-custodia/)
 
 </td>
 <td width="50%" valign="top">
 
-###  EverChain
+### ⛓️ EverChain
 **Autor:** Jared Daniel  
 **Tipo:** App Design
 
 > Serviço de herança digital em Bitcoin para transferir patrimônio de forma simples e segura para herdeiros ou pessoas de confiança.
 
-[ Ver Arquivos](./projetos/everchain-jared)  [ Biblioteca](https://bitcoincreative.org/biblioteca/everchain-app-de-heranca-em-bitcoin/)
+[📁 Ver Arquivos](./projetos/everchain-jared) · [🌐 Biblioteca](https://bitcoincreative.org/biblioteca/everchain-app-de-heranca-em-bitcoin/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  Mundo Bitcoin
+### 🌍 Mundo Bitcoin
 **Autora:** Tabata Miranda  
 **Tipo:** App Design
 
 > App educacional gamificado e open source para ensinar Bitcoin em português de forma simples e divertida, inspirado no Duolingo.
 
-[ Ver Arquivos](./projetos/mundo-bitcoin-tabata)  [ Biblioteca](https://bitcoincreative.org/biblioteca/mundo-bitcoin-app-educacional/)
+[📁 Ver Arquivos](./projetos/mundo-bitcoin-tabata) · [🌐 Biblioteca](https://bitcoincreative.org/biblioteca/mundo-bitcoin-app-educacional/)
 
 </td>
 <td width="50%" valign="top">
 
-###  Satiplay
+### 🎵 Satiplay
 **Autora:** Yasmine Coutinho  
 **Tipo:** App/Branding
 
 > Plataforma de streaming de música e podcasts com pagamentos nativos em Bitcoin via Lightning, com modelo mais justo para artistas.
 
-[ Ver Arquivos](./projetos/satiplay-yasmine)  [ Biblioteca](https://bitcoincreative.org/biblioteca/satiplay-streaming-de-musica/)
+[📁 Ver Arquivos](./projetos/satiplay-yasmine) · [🌐 Biblioteca](https://bitcoincreative.org/biblioteca/satiplay-streaming-de-musica/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  To The Moon
+### 🌙 To The Moon
 **Autora:** Tatiana Ribeiro  
 **Tipo:** Jogo de Tabuleiro
 
 > Jogo de tabuleiro offline para ensinar Bitcoin de forma clara e divertida, usando humor e interação para combater a desinformação.
 
-[ Ver Arquivos](./projetos/to-the-moon-tatiana)  [ Biblioteca](https://bitcoincreative.org/biblioteca/to-the-moon-jogo-de-tabuleiro/)
+[📁 Ver Arquivos](./projetos/to-the-moon-tatiana) · [🌐 Biblioteca](https://bitcoincreative.org/biblioteca/to-the-moon-jogo-de-tabuleiro/)
 
 </td>
 <td width="50%" valign="top">
 
-###  We Are Bitcoin Friendly
+### 🤝 We Are Bitcoin Friendly
 **Autora:** Caroline Capovilla  
 **Tipo:** Website
 
 > Sistema de sinalização padronizada + educação para estabelecimentos, com QR codes que levam a landing pages educativas.
 
-[ Ver Arquivos](./projetos/we-are-bitcoin-friendly-caroline)  [ Biblioteca](https://bitcoincreative.org/biblioteca/we-are-bitcoin-friendly-site/)
+[📁 Ver Arquivos](./projetos/we-are-bitcoin-friendly-caroline) · [🌐 Biblioteca](https://bitcoincreative.org/biblioteca/we-are-bitcoin-friendly-site/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  Bitcoiner
+### 🪪 Bitcoiner
 **Autor:** Romulo  
 **Tipo:** Identidade Visual
 
 > Identidade visual para bitcoiners.
 
-[ Ver Arquivos](./projetos/bitcoiner-romulo)
+[📁 Ver Arquivos](./projetos/bitcoiner-romulo)
 
 </td>
 <td width="50%" valign="top">
 
-###  Bitcoming
+### 🚀 Bitcoming
 **Autor:** Caio Isquerdo  
 **Tipo:** Design Conceitual
 
 > Conceito visual sobre a jornada no Bitcoin.
 
-[ Ver Arquivos](./projetos/bitcoming-caio)
+[📁 Ver Arquivos](./projetos/bitcoming-caio)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  Grama
+### 🌿 Grama
 **Autora:** Beatriz Marilian  
 **Tipo:** Design Conceitual
 
 > Design sustentável e Bitcoin.
 
-[ Ver Arquivos](./projetos/grama-beatriz)
+[📁 Ver Arquivos](./projetos/grama-beatriz)
 
 </td>
 <td width="50%" valign="top">
 
-###  MeuBit
+### 💰 MeuBit
 **Autor:** Pedro  
 **Tipo:** Design Conceitual
 
 > Projeto sobre a jornada pessoal no Bitcoin.
 
-[ Ver Arquivos](./projetos/meubit-pedro)
+[📁 Ver Arquivos](./projetos/meubit-pedro)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  SatsArts
+### 🎨 SatsArts
 **Autora:** Rita  
 **Tipo:** Design Conceitual
 
 > Arte digital e Bitcoin.
 
-[ Ver Arquivos](./projetos/satsarts-rita)
+[📁 Ver Arquivos](./projetos/satsarts-rita)
 
 </td>
 <td width="50%" valign="top">
 
-###  Seguro Soberano
+### 🛡️ Seguro Soberano
 **Autor:** Victor Gabriel  
 **Tipo:** Vídeo + Design
 
 > Projeto completo com vídeo narrativo, trilha sonora original e assets visuais sobre soberania financeira.
 
-[ Ver Arquivos](./projetos/seguro-soberano-victor)
+[📁 Ver Arquivos](./projetos/seguro-soberano-victor)
 
 </td>
 </tr>
@@ -251,37 +251,37 @@ Como parte da conclusão do programa, cada participante desenvolveu um **projeto
 
 ---
 
-##  Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 `
 Design-Fundamentals/
-  assets/                   # Recursos visuais
-    social-preview.svg       # Imagem para compartilhamento
-  docs/                     # GitHub Pages
-    index.html               # Página web do projeto
-  projetos/                 # Projetos dos participantes
-    bitcoin-wiki-tiago/
-    bitcoiner-romulo/
-    bitcoming-caio/
-    bitgrow-bruna/
-    coldkeys-lucas/
-    everchain-jared/
-    grama-beatriz/
-    meubit-pedro/
-    mundo-bitcoin-tabata/
-    satiplay-yasmine/
-    satsarts-rita/
-    seguro-soberano-victor/
-    to-the-moon-tatiana/
-    we-are-bitcoin-friendly-caroline/
-  CONTRIBUTING.md           # Guia de contribuição
-  README.md
-  LICENSE
+├── 📁 assets/                   # Recursos visuais
+│   └── social-preview.svg       # Imagem para compartilhamento
+├── 📁 docs/                     # GitHub Pages
+│   └── index.html               # Página web do projeto
+├── 📁 projetos/                 # Projetos dos participantes
+│   ├── bitcoin-wiki-tiago/
+│   ├── bitcoiner-romulo/
+│   ├── bitcoming-caio/
+│   ├── bitgrow-bruna/
+│   ├── coldkeys-lucas/
+│   ├── everchain-jared/
+│   ├── grama-beatriz/
+│   ├── meubit-pedro/
+│   ├── mundo-bitcoin-tabata/
+│   ├── satiplay-yasmine/
+│   ├── satsarts-rita/
+│   ├── seguro-soberano-victor/
+│   ├── to-the-moon-tatiana/
+│   └── we-are-bitcoin-friendly-caroline/
+├── 📄 CONTRIBUTING.md           # Guia de contribuição
+├── 📄 README.md
+└── 📄 LICENSE
 `
 
 ---
 
-##  Tipos de Arquivos
+## 📋 Tipos de Arquivos
 
 Os projetos incluem diversos formatos editáveis e finalizados:
 
@@ -291,48 +291,48 @@ Os projetos incluem diversos formatos editáveis e finalizados:
 | .psd | Adobe Photoshop | Composições e mockups |
 | .fig | Figma | Protótipos e UI design |
 | .cdr | CorelDRAW | Vetores alternativos |
-| .pdf |  | Apresentações e documentação |
-| .mp4 |  | Vídeos e animações |
-| .wav |  | Trilhas e efeitos sonoros |
-| .ttf |  | Fontes tipográficas |
+| .pdf | — | Apresentações e documentação |
+| .mp4 | — | Vídeos e animações |
+| .wav | — | Trilhas e efeitos sonoros |
+| .ttf | — | Fontes tipográficas |
 
 ---
 
-##  Como Contribuir
+## 🤝 Como Contribuir
 
 Este é um projeto **open source**! Veja o [CONTRIBUTING.md](./CONTRIBUTING.md) para detalhes.
 
-1.  **Dar uma estrela** neste repositório
-2.  **Fork** e adaptar para seus projetos
-3.  **Compartilhar** com a comunidade Bitcoin
-4.  **Abrir issues** com sugestões
+1. ⭐ **Dar uma estrela** neste repositório
+2. 🔀 **Fork** e adaptar para seus projetos
+3. 📢 **Compartilhar** com a comunidade Bitcoin
+4. 💡 **Abrir issues** com sugestões
 
 ---
 
-##  Licença
+## 📜 Licença
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-F7931A.svg)](https://opensource.org/licenses/MIT)
 
 Os projetos são disponibilizados como Open Source sob licença [MIT](./LICENSE).  
 Por favor, dê crédito aos autores ao utilizar os materiais.
 
 ---
 
-##  Conecte-se
+## 🔗 Conecte-se
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-bitcoincreative.org-F7931A?style=for-the-badge)](https://bitcoincreative.org)
-[![Twitter](https://img.shields.io/badge/-@bitcoincreativ-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bitcoincreativ)
+[![Twitter](https://img.shields.io/badge/𝕏-@bitcoincreativ-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bitcoincreativ)
 [![Nostr](https://img.shields.io/badge/Nostr-npub1cda...c8sur-8B5CF6?style=for-the-badge)](https://njump.me/npub1cdal5mq7npz2c0tk8lq9u2h3xggpq3s0l5667n3t3rq2s435yhdqqc8sur)
-[![Email](https://img.shields.io/badge/Email-hello@bitcoincreative.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@bitcoincreative.org)
+[![Email](https://img.shields.io/badge/Email-hello@bitcoincreative.org-F7931A?style=for-the-badge)](mailto:hello@bitcoincreative.org)
 
 ---
 
-**Feito com  pela comunidade Bitcoin Creative**
+**Feito com 🧡 pela comunidade Bitcoin Creative**
 
 *"Nós somos todos Satoshi"*
 
-[![Biblioteca](https://img.shields.io/badge/_Ver_Biblioteca_Completa-bitcoincreative.org/biblioteca-F7931A?style=for-the-badge)](https://bitcoincreative.org/biblioteca/)
+[![Biblioteca](https://img.shields.io/badge/📚_Ver_Biblioteca_Completa-bitcoincreative.org/biblioteca-F7931A?style=for-the-badge)](https://bitcoincreative.org/biblioteca/)
 
 </div>

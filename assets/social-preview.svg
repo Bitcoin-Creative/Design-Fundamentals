@@ -1,37 +1,52 @@
-﻿<svg width="1280" height="640" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="640" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#000000"/>
-      <stop offset="100%" style="stop-color:#1a1a1a"/>
+      <stop offset="100%" style="stop-color:#0a0a0a"/>
     </linearGradient>
   </defs>
   
-  <!-- Background -->
+  <!-- Background preto como o site -->
   <rect width="1280" height="640" fill="url(#bg)"/>
   
-  <!-- Decorative circles -->
-  <circle cx="100" cy="100" r="200" fill="#F7931A" opacity="0.1"/>
-  <circle cx="1180" cy="540" r="250" fill="#F7931A" opacity="0.08"/>
+  <!-- Linha laranja decorativa superior -->
+  <rect x="0" y="0" width="1280" height="4" fill="#F7931A"/>
   
-  <!-- Bitcoin symbol -->
-  <text x="640" y="200" font-family="Arial, sans-serif" font-size="80" fill="#F7931A" text-anchor="middle"></text>
+  <!-- Círculo decorativo laranja (estilo site) -->
+  <circle cx="1100" cy="150" r="180" fill="#F7931A" opacity="0.15"/>
+  <circle cx="180" cy="500" r="120" fill="#F7931A" opacity="0.1"/>
   
-  <!-- Main title -->
-  <text x="640" y="300" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Design Fundamentals</text>
+  <!-- Logo Bitcoin Creative -->
+  <text x="640" y="180" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#F7931A" text-anchor="middle" letter-spacing="2">BITCOIN CREATIVE</text>
   
-  <!-- Subtitle -->
-  <text x="640" y="370" font-family="Arial, sans-serif" font-size="28" fill="#888888" text-anchor="middle">Programa de Formação em Design do Bitcoin Creative</text>
+  <!-- Título principal -->
+  <text x="640" y="280" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#FFFFFF" text-anchor="middle">Design Fundamentals</text>
   
-  <!-- Stats -->
-  <text x="440" y="480" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#F7931A" text-anchor="middle">14</text>
-  <text x="440" y="520" font-family="Arial, sans-serif" font-size="18" fill="#888888" text-anchor="middle">PROJETOS</text>
+  <!-- Subtítulo -->
+  <text x="640" y="340" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#888888" text-anchor="middle">Fundamentos essenciais de design aplicados ao universo Bitcoin</text>
   
-  <text x="640" y="480" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#F7931A" text-anchor="middle">14</text>
-  <text x="640" y="520" font-family="Arial, sans-serif" font-size="18" fill="#888888" text-anchor="middle">DESIGNERS</text>
+  <!-- Divisor -->
+  <rect x="540" y="380" width="200" height="2" fill="#F7931A"/>
   
-  <text x="840" y="480" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#F7931A" text-anchor="middle">100%</text>
-  <text x="840" y="520" font-family="Arial, sans-serif" font-size="18" fill="#888888" text-anchor="middle">OPEN SOURCE</text>
+  <!-- Stats em estilo minimalista -->
+  <g transform="translate(340, 480)">
+    <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#F7931A">14</text>
+    <text x="0" y="35" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#666666" letter-spacing="2">PROJETOS</text>
+  </g>
+  
+  <g transform="translate(560, 480)">
+    <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#F7931A">14</text>
+    <text x="0" y="35" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#666666" letter-spacing="2">DESIGNERS</text>
+  </g>
+  
+  <g transform="translate(780, 480)">
+    <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#F7931A">100%</text>
+    <text x="0" y="35" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#666666" letter-spacing="2">OPEN SOURCE</text>
+  </g>
   
   <!-- Footer -->
-  <text x="640" y="600" font-family="Arial, sans-serif" font-size="20" fill="#F7931A" text-anchor="middle">bitcoincreative.org</text>
+  <text x="640" y="590" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#F7931A" text-anchor="middle">bitcoincreative.org</text>
+  
+  <!-- Linha laranja decorativa inferior -->
+  <rect x="0" y="636" width="1280" height="4" fill="#F7931A"/>
 </svg>
