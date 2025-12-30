@@ -1,0 +1,36 @@
+FERRAMENTA: GEMINI SPEECH GENERATION - Read aloud in a warm and friendly tone:
+Voz sugeridas: Orus / Algenib / Algieba / Charon / Enceladus*
+
+Prompt:
+Gere o seguinte roteiro de narração em áudio com uma única voz masculina, profissional e em português do Brasil. A performance deve seguir as mudanças de tom especificadas para cada ato.
+
+Ato 1:
+(Instrução de tom: Comece com uma voz calma, séria e ponderada. As pausas entre as frases devem ser deliberadas e reflexivas.)
+
+"Você tem seguro para o seu carro..."
+"...para o seu imóvel..."
+"...para a saúde de sua família..."
+"...para a sua vida."
+"Talvez até para o seu celular."
+
+Ato 2:
+(Instrução de tom: Mude o tom agora. A voz deve se tornar mais incisiva e questionadora, como se estivesse revelando uma verdade desconfortável ao ouvinte. Aumente a intensidade a cada frase.)
+
+"Mas nada que te proteja contra as ações do governo?"
+"Nada que te proteja das escolhas de terceiros?"
+"Você troca seu tempo, sua energia, sua vida... por um dinheiro."
+"E enquanto o valor do seu esforço... evapora."
+"...Eles criam esse mesmo dinheiro para si, com o apertar de um botão.
+
+Ato 3:
+(Instrução de tom: A voz agora deve ter peso, clareza e autoridade. Fale de forma poderosa e convicta, como se estivesse apresentando uma conclusão inevitável.)
+
+"A inflação é pior do que você pensa... e o Bitcoin é melhor do que você imagina."
+
+"O ciclo é sempre o mesmo."
+
+"Dinheiro corrupto. Incentivos corruptos. Sociedade corrupta."
+
+ "Quebre o ciclo.
+Tenha Bitcoin.
+O seu seguro monetário."

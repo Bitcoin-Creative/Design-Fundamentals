@@ -1,0 +1,13 @@
+MusicFX - IA
+
+- Act 1
+
+Prompt: Cinematic underscore, somber, serious, dramatic tension, minimalist. A lonely grand piano plays sparse, low-register notes with heavy reverb. Melancholic cello strings provide a slow, mournful melody underneath. Subtle, atmospheric synthesizer pads create a sense of unease. No percussion. Slow tempo, approximately 60 BPM. Evokes a feeling of weight, foreboding, and the seriousness of family protection planning. Avoid any hopeful or optimistic elements
+
+- Act 2
+
+Prompt: Tense cinematic thriller score, building urgency, investigative, unsettling. Introduce a persistent staccato string ostinato (cellos and violas). Add a low-frequency synthesizer pulse, like a subtle, anxious heartbeat. The piano becomes more dissonant, with occasional sharp, high notes. Incorporate subtle sound design elements like a low drone and soft reverse cymbals for rising tension. Progressively accelerate tempo from 70 BPM to 120 BPM throughout the act. The music must create a sense of something being fundamentally wrong beneath the surface, an invisible threat closing in.
+
+- Act 3
+
+Prompt: Epic, inspiring, hopeful cinematic orchestral score. Triumphant but not bombastic. Full string orchestra (violins, violas) with soaring, ascending melodies. Heroic french horns provide a noble theme. Powerful, cinematic percussion (toms, cymbals) enters to drive the rhythm. The piano returns with resolute, major key chords. The track should start with a more restrained, hopeful tone and build to a powerful crescendo. Majestic tempo, around 90 BPM. The music signifies a profound revelation, the discovery of a powerful solution, conveying hope, empowerment, and the promise of a secure future.

@@ -1,0 +1,76 @@
+Prompts para geração das imagens animadas:
+Ferramenta: IA - VEO2 e VEO3
+
+Ato 1: Os Riscos que Vemos
+
+CENA 1 :
+
+Prompt: It just has him driving away slowly. No dialogue in the scene.
+
+CENA 2 :
+
+Prompt: A fire starts behind her. The scene has no speech, just the sound involved in the context and ends with her looking at the fire and getting scared.
+
+CENA 3 :
+
+Animate the source image for 8 seconds, following this exact, simplified sequence: **Seconds 0-8:** The point of view of the shot is completely fixed and does not move. For the entire 8 seconds, the security camera itself rotates slowly, smoothly, and mechanically on its mount, making a continuous panning motion from far left to far right, as if scanning the street. There is no other movement in the scene. **Audio:** Just a constant, ambient sound of a quiet suburban street at night (crickets, a very distant hum of traffic). Add a very subtle, soft, mechanical sound of the camera's motor as it moves.
+
+CENA 4 :
+
+Prompt: Animate the source image for 8 seconds, following this exact, simplified sequence: **Seconds 0-8:** The entire scene moves forward at a fast, steady pace, as if the camera were following the wheelchair down the hallway. The walls and overhead lights pass by in a slight motion blur to indicate speed. The doctor and the wheelchair remain in the center of the frame throughout. There are no sudden movements, just a continuous forward motion. **Audio:** The rhythmic, hurried sound of the wheelchair wheels rolling on the hospital floor. No speech or mouth movement.
+
+CENA 5 :
+
+Prompt: Animate the source image for 8 seconds, following this exact, simplified sequence: **Seconds 0-4:** The young man stares at the broken screen, motionless, processing the damage. His thumb runs lightly over the broken glass, as if to feel the damage. His expression slowly changes from shock to contained anger. **Seconds 4-8:** With an angry sigh. He then tilts his head back, closing his eyes and running his hand through his hair in a gesture of pure frustration and exhaustion. **Audio:** A tense silence for the first 4 seconds, broken only by the subtle sound of his finger sliding over the broken glass. The muffled sound of the phone hitting a soft surface, followed by a long, frustrated sigh. No speech or mouth movement.
+
+Ato 2: O Risco que Ignoramos
+
+CENA 6 :
+
+Prompt: Animate the source image for 8 seconds, following this exact, simplified sequence: **Seconds 0-5:** The eye remains almost still, looking straight ahead. The reflection of the news feed behind the word "CENSORED" moves very subtly, as if the user were slowly scrolling the page. The word "CENSORED" itself remains fixed, but flickers with a slight digital interference (glitch effect). **Seconds 5-8:** The eye performs a single, slow, deliberate blink. The eyelids gently close and open again, revealing the same reflection as before. The movement is calm, almost like a sign of acceptance or resignation. **Audio:** A low-level, constant electronic buzzing. Add a subtle "glitch" or digital static sound that corresponds to the flickering of the word. The blink sound should be silent, so as not to break the tension. No speech or mouth movement.
+
+CENA 7 :
+
+Prompts:
+7.1 - Animate the source image for 8 seconds. The politician glances nervously around for 3 seconds. He then gives a slight nod and slowly slides the envelope across the desk. The camera performs a very slow, subtle zoom-in on the envelope as it is exchanged.
+
+CENA 8 :
+
+Prompts:
+8.1 - Animate the source image for 8 seconds. Hold on the construction worker.
+
+8.2 - Animate the source image for 8 seconds. Into a close-up of an exhausted nurse, who slowly closes her eyes for 4 seconds.
+
+CENA 9 :
+
+Prompt: Animate the source image for 8 seconds. The mother's hand take a product, but hesitates for 4 seconds. Her expression becomes worried. She slowly retracts her hand, puts the item back, and picks up a cheaper alternative next to it. She sighs softly as she places the cheaper item in her cart. No speech or mouth movement.
+
+CENA 10 :
+
+Prompt: Animate the source image for 8 seconds. Hover your finger over it for 3 seconds and firmly press the "Enter" key. When you tap it, a digital graphic overlay appears on the screen, and its line rises exponentially for the remaining 4 seconds.
+
+Ato 3: O Despertar e a Solução
+
+
+CENA 11 :
+
+Prompt: cinematic video, hyperrealistic, 4k, a Brazilian man in his late 30s stares at an eviction notice on his front door, his family stands behind him looking devastated, harsh daylight creates strong shadows, the camera is at a low angle, he clenches his fists in anger, then in a sudden burst of rage and frustration, he kicks the bottom of the door hard, the scene is silent focusing on the raw emotion, shot on a 50mm lens.
+
+CENA 12 :
+
+Prompt: 8-second cinematic video, hyperrealistic, 8K, Brazilian couple in their early 30s, tan skin, standing in a cozy modern living room softly lit by warm natural sunlight. The pregnant wife wears a flowing pastel dress, smiling gently, while the husband slowly kneels down in front of her, placing his hands on her big baby bump and leaning in to listen, with a joyful, emotional expression. The wife softly caresses his hair, looking down at him with tenderness. Minimalist Brazilian home interior, soft color palette, wooden furniture, natural daylight entering through a window with white curtains. Smooth slow camera movement, shallow depth of field, creamy bokeh, shot on 50mm lens, cinematic tones, hyperrealistic skin textures, emotional and heartwarming vibe, no dialogue, film still quality.
+
+CENA 13 :
+
+Prompt: Create an ultra-realistic, photorealistic 4K animation based on the provided image. The primary focus is to animate the three white arrows, making them flow in a smooth, continuous, and hypnotic clockwise loop. The motion should be seamless and mesmerizing, representing a relentless cycle. Crucially, Planet Earth, the glass sphere, and the orange text elements ('DINHEIRO CORRUPTO', etc.) must remain completely static and fixed in place. Only the arrows should be in motion. Emphasize the visual style we previously established: enhance the vibrant, glowing quality of the orange continents and text. The lighting should be cinematic and dramatic, making the orange areas appear luminous and cast a soft, subtle reflection on the inner surface of the glass sphere. The entire animation should have a sharp focus and a deliberate, slow-motion feel to maximize its impact.
+
+CENA 14 :
+
+Prompt: Animate the transition from Image 1 to Image 2 with an ultra-realistic, photorealistic 4K effect. The glass sphere encasing the Earth in Image 1 should dramatically shatter and explode outwards into countless sharp, glistening fragments, precisely transforming into the state shown in Image 2. The explosion of glass must be sudden and powerful, with fragments scattering dynamically towards the viewer and fading into the dark background. Emphasize the reflective and refractive properties of the glass shards as they burst, catching the light. The Earth and the infographic elements inside the sphere should remain static or minimally affected by the shattering. The entire effect should be cinematic and impactful, like a sudden release of pressure, symbolizing the breaking of the cycle. - VEO2
+
+CENA 15 :
+
+Prompt: An ultra-realistic, photorealistic 4K animation of a viscous, glowing orange liquid gently undulating and swirling around planet Earth, which is encased within a glass sphere. The fluid dynamics should be incredibly detailed and hypnotic, with slow, organic waves and subtle ripples. Emphasize cinematic lighting that creates dynamic caustics on the planet's surface as the liquid moves. The liquid must have convincing refractive and reflective properties, with a soft internal glow from subsurface scattering. Capture macro details, like tiny bubbles forming and gracefully rising. The entire scene should have a sense of weightlessness and mesmerizing, slow-motion movement.
+
+
+

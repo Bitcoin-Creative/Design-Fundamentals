@@ -1,0 +1,6 @@
+CENA 14 :
+
+Prompts:
+14.1 - Medium shot of a happy young Brazilian couple (man and woman, 30s) and a real estate agent, standing in the living room of a modern, empty apartment. The couple and the agent are facing each other. The lighting is soft and warm, coming from large, off-screen windows. In the background, on a kitchen counter, a single set of house keys is in focus. The agent and the couple are smiling, in a relaxed conversational pose. Photorealistic, cinematic, 35mm lens.
+
+14.2 - Ultimo frame resultante da geração anterior do VEO3.

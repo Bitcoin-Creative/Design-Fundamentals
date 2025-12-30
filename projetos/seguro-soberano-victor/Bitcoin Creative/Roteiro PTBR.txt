@@ -1,0 +1,79 @@
+Roteiro base para a construção do projeto:
+
+Ato 1: Os Riscos que Vemos
+
+    CENA 1: Close-up do rosto aflito de um motorista dentro de um carro amassado, em frente a uma oficina.
+
+        NARRAÇÃO: "Você tem seguro para o seu carro..."
+
+    CENA 2: Uma chef de cozinha trabalha focada e com precisão em uma cozinha profissional.
+
+        NARRAÇÃO: "...para o seu imóvel..."
+
+    CENA 3: Uma câmera de segurança monitora uma rua da parede de uma casa à noite.
+
+        NARRAÇÃO: "...para a saúde de sua família..."
+
+    CENA 4: Uma paciente é conduzida em uma cadeira de rodas por um corredor de hospital, vista de costas.
+
+        NARRAÇÃO: "...para a sua vida."
+
+    CENA 5: Um jovem segura um celular com a tela completamente trincada.
+
+        NARRAÇÃO: "Talvez até para o seu celular."
+
+Ato 2: O Risco que Ignoramos
+
+    CENA 6: Close-up extremo de um olho, onde se reflete a palavra "CENSURADO" em vermelho.
+
+        NARRAÇÃO (Tom mais incisivo): "Mas nada que te proteja contra as ações do governo?"
+
+    CENA 7: Um político de aparência séria em seu gabinete, com a bandeira do Brasil ao fundo, diante de um envelope com dinheiro sobre a mesa.
+
+        NARRAÇÃO: "Nada que te proteja das escolhas de terceiros?"
+
+    CENA 8: Close-up do rosto suado e determinado de um operário de construção civil sob o sol. Com posterior transição para uma enfermeira esgotada durante o seu turno de trabalho.
+
+        NARRAÇÃO: "Você troca seu tempo, sua energia, sua vida... por um dinheiro."
+
+    CENA 9: Uma mulher no corredor de um supermercado olha com preocupação para um produto na prateleira, ponderando a compra.
+
+        NARRAÇÃO: "E enquanto o valor do seu esforço... evapora."
+
+    CENA 10: Uma mão se aproxima de um teclado, em frente a um monitor com o logo do BACEN. A cena sugere o ato de criar dinheiro digitalmente.
+
+        NARRAÇÃO: "...Eles criam esse mesmo dinheiro para si, com o apertar de um botão."
+
+Ato 3: O Despertar e a Solução
+
+    CENA 11: Uma família na porta de casa vendo um aviso de despejo.
+
+     "A inflação é pior do que você pensa..."
+
+    CENA 12: Um marido brinca com a barriga de sua esposa gravida.
+
+        NARRAÇÃO: "E o Bitcoin é melhor do que você imagina."
+        "O ciclo é sempre o mesmo."
+
+    Cena 13: Animação de um planeta terra visto do espaço enquanto o texto: DINHEIRO CORRUPTO -> INCENTIVOS CORRUPTOS -> SOCIEDADE CORRUPTA, gira ao redor do planeta representando o aspecto cíclico e universal da questão.
+
+        NARRAÇÃO: "Dinheiro corrupto. Incentivos corruptos. Sociedade corrupta."
+
+    CENA 13: Tela preta. O logotipo do Bitcoin quebra o ciclo, que se estilhaça visualmente.
+
+    CENA 14: Animação desse ciclo anterior se quebrando.
+
+     "Quebre o ciclo."
+
+    CENA 15: O mesmo planeta só que agora sendo evolvido por um liquido laranja.
+    (A "bolha Bitcoin", que vai cobrir o mundo).
+
+        NARRAÇÃO: "Tenha Bitcoin.
+        O seu seguro monetário.""
+
+    CENA 16:
+
+    TEXTO NA TELA: Bitcoin. O seu seguro monetário.
+
+    Fim.
+

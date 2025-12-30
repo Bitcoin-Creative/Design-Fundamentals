@@ -1,0 +1,68 @@
+Image generation prompts for video scene production:
+Tool: AIs - Whisk and Nano Banana
+
+Act 1: The Risks We See
+
+SCENE 1:
+
+Prompt: Medium shot of a car with a visibly dented front end and scratched bumper, slowly pulling up to a mechanic's shop. The driver, a 40-year-old man, is still behind the wheel, looking exhausted and stressed. Photorealistic, cinematic, 50mm lens.
+
+SCENE 2:
+
+Prompt: Medium shot of a 30-year-old cook with her back to the stove, concentrating on chopping vegetables. The kitchen lighting is normal. Photorealistic, cinematic, 35mm lens.
+
+SCENE 3:
+
+Prompt: Medium shot of a modern white bullet-style security camera mounted on the upper corner of a house's exterior wall or building's entrance at night. The camera is pointed to the left. The scene is lit by a single wall light, creating soft shadows. The background is slightly blurred. Photorealistic, cinematic, 50mm lens.
+
+SCENE 4:
+
+Prompt: Medium shot, filmed from behind, of a doctor or nurse pushing a patient (female, 50) in a wheelchair. The patient is seen from behind, wearing a hospital gown. The doctor's hands are firmly on the chair's handles. The long, well-lit hospital corridor stretches out before them. The scene is still, as if a movement is beginning. Photorealistic, cinematic, 35mm lens.
+
+SCENE 5:
+
+Prompt: First-person point of view (POV). The image shows a young man's hands holding a smartphone with a completely shattered screen, in a spiderweb pattern. The index finger of his right hand lightly touches the broken glass, as if feeling the damage. The scene takes place on a table or neutral surface in an indoor setting. Photorealistic, cinematic, 35mm lens.
+
+Act 2: The Risk We Ignore
+
+SCENE 6:
+
+Prompt: Extreme macro of a human eye, looking straight ahead but slightly away. Reflected in the pupil and iris is a digital news feed. Superimposed on this reflection, the word "CENSORED" appears in bright red digital text, similar to an LED display. The scene is lit entirely by the reflected glow of the screen, creating a cold and somber atmosphere. Photorealistic, cinematic, 35mm lens.
+
+SCENE 7:
+
+Prompts:
+7.1 - Medium shot, from a hidden angle, of a politician in a presidential office in Brazil. A thick envelope and a small wad of cash are on the table, along with a bottle of alcohol between him and another person. Chiaroscuro lighting. Photorealistic, cinematic, 35mm lens.
+7.Post - Refinement of the previous result generated in Whisk in Nano Banana for better 'cultural localization'.
+
+SCENE 8:
+
+Prompts:
+8.1 - Close-up of the face of a 45-year-old construction worker wearing a hard hat, looking to the side, focused. The strong sun illuminates his sweaty face. Photorealistic, cinematic, 35mm lens.
+
+8.2 - A close-up of an exhausted nurse. Photorealistic, cinematic, 35mm lens.
+
+SCENE 9:
+
+Prompt: Over-the-shoulder shot of a 35-year-old mother standing in a supermarket aisle, looking thoughtfully at the products on a shelf. Photorealistic, cinematic, 50mm lens.
+
+SCENE 10:
+
+Prompt: Macro of a middle-aged man's hand hovering over a keyboard in a room at the Central Bank of Brazil. The monitor is visible and displays the bank's layout. Photorealistic, cinematic, 50mm lens.
+10.Post - Refinement of the previous result generated in Whisk in Nano Banana for better 'cultural localization'.
+
+Act 3: The Awakening and the Solution
+
+SCENE 11:
+
+Prompt: cinematic shot, realistic, a Brazilian family (father, mother, young daughter) arriving at the front door of their modest house, they find an official eviction notice taped to the door, harsh late afternoon light creating long shadows, camera focuses on the parents' faces showing shock and quiet despair, the daughter looks confused, shot on 50mm lens, the scene is still and emotionally heavy, hyperrealistic
+
+11.Post - Refinement of the previous result generated in Whisk in Nano Banana for better 'cultural localization'.
+
+SCENE 12:
+
+Prompt: Cinematic shot, hyperrealistic, 8K, Brazilian couple in their early 30s, tan skin, standing together in a softly lit living room. The pregnant wife has a big baby bump, wearing a flowing pastel dress, smiling gently. The husband, casual clothes, short beard, leans slightly forward preparing to place his hands on her belly, looking excited and emotional. Natural warm sunlight enters through large windows, cozy modern Brazilian home interior, pastel tones, cinematic color grading, shot on 85mm lens for creamy bokeh and soft depth of field, hyperrealistic skin textures, emotional and authentic vibe, film still quality.
+
+12.Post - Refinement of the previous result generated in Whisk in Nano Banana for a better connection with the theme (Bitcoin).
+
+SCENES 13, 14, and 15: Images without prompt generation in Whisk, only manual adaptation and refinement in Nano Banana. (All provided)

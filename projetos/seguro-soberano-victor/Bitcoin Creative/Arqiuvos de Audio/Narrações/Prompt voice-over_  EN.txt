@@ -1,0 +1,36 @@
+TOOL: GEMINI SPEECH GENERATION - Read aloud in a warm and friendly tone:
+Recommended voices: Orus / Algenib / Algieba / Charon / Enceladus
+
+Prompt:
+Generate the following audio narration script with a single, professional, male voice. The performance must follow the specified tone changes for each act.
+
+Act 1:
+(Tone instruction: Start with a calm, serious, and thoughtful voice. The pauses between sentences should be deliberate and reflective.)
+
+"You have insurance for your car..."
+"...for your property..."
+"...for your family's health..."
+"...for your life."
+"Maybe even for your cellphone."
+
+Act 2:
+(Tone instruction: Shift the tone now. The voice should become more incisive and questioning, as if revealing an uncomfortable truth to the listener. Increase the intensity with each sentence.)
+
+"But nothing to protect you against the government's actions?"
+"Nothing to protect you from the choices of others?"
+"You trade your time, your energy, your life... for a currency."
+"And while the value of your effort... evaporates."
+"...They create that same currency for themselves, with the push of a button."
+
+Act 3:
+(Tone instruction: The voice should now have weight, clarity, and authority. Speak in a powerful and convicted manner, as if presenting an inevitable conclusion.)
+
+"Inflation is worse than you think... and Bitcoin is better than you can imagine."
+
+"The cycle is always the same."
+
+"Corrupt money. Corrupt incentives. Corrupt society."
+
+"Break the cycle.
+Own Bitcoin.
+Your monetary insurance."
