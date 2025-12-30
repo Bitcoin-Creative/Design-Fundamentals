@@ -275,7 +275,7 @@ Os projetos são disponibilizados como Open Source sob licença [MIT](./LICENSE)
 
 <div align="center">
 
-**Feito com  pela comunidade Bitcoin Creative**
+**Feito com 🧡 pela comunidade Bitcoin Creative**
 
 *"Nós somos todos Satoshi"*
 
