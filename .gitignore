@@ -21,3 +21,6 @@ Desktop.ini
 *.tmp
 *.temp
 ~$*
+
+# Release files
+releases/
