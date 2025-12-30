@@ -1,34 +1,61 @@
-﻿<div align="center">
-  
+<div align="center">
+
 #  Design Fundamentals
 
-### Programa de Design do Bitcoin Creative
+### Programa de Formação em Design do Bitcoin Creative
 
-*Conectando criativos e designers ao mundo do Bitcoin*
+<br>
+
+> *Fundamentos essenciais de design e design thinking aplicados ao universo Bitcoin*
+
+<br>
 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org)
 [![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org)
 [![Creative Commons](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org)
+[![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=for-the-badge&logo=nostr&logoColor=white)](https://njump.me/npub1cdal5mq7npz2c0tk8lq9u2h3xggpq3s0l5667n3t3rq2s435yhdqqc8sur)
 
-[ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/)  [ Releases](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases)
+<br>
+
+[ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/)  [ Releases](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases)  [ Design System](https://github.com/Bitcoin-Creative/Design-System)
 
 </div>
 
 ---
 
+##  Sobre o Bitcoin Creative
+
+> **Somos um studio-lab open source que forma, conecta e impulsiona profissionais nas áreas de design, inteligência artificial e marketing com foco na indústria do Bitcoin.**
+
+Nossa missão é capacitar criadores e estrategistas com conhecimento técnico, visão de mercado e projetos práticos que contribuam para tornar o **Bitcoin mais compreensível, acessível e presente no mundo**.
+
+###  Nossa Filosofia
+
+| | Pilar | Descrição |
+|:---:|-------|-----------|
+|  | **Treinamento com especialistas** | Domine as habilidades que a indústria do Bitcoin precisa |
+|  | **Aprenda projetando** | Cada programa tem teoria e prática, para você aprender fazendo |
+|  | **Acelere sua carreira** | Ganhe certificados confiáveis pelas melhores equipes do setor |
+|  | **Prêmio em Bitcoin** | O projeto final em destaque recebe premiação em Bitcoin |
+
+---
+
 ##  Sobre o Programa
 
-O **Design Fundamentals** é um programa educacional da Bitcoin Creative que capacita designers e criativos a compreenderem e se conectarem com o ecossistema Bitcoin. 
+O **Design Fundamentals** é o primeiro programa educacional do Bitcoin Creative, capacitando designers e criativos a compreenderem e se conectarem com o ecossistema Bitcoin.
 
-Ao longo do programa, os participantes aprenderam:
+### O que os participantes aprenderam:
+
 -  Fundamentos do Bitcoin e sua filosofia
--  Princípios de design aplicados ao ecossistema Bitcoin
+-  Princípios de design aplicados ao ecossistema Bitcoin  
 -  Ferramentas e técnicas para criação visual
 -  Como comunicar conceitos complexos de forma acessível
 
 ###  Projeto Final
 
-Como parte da conclusão do programa, cada participante desenvolveu um projeto original que combina seus conhecimentos de design com os princípios aprendidos sobre Bitcoin. Todos os projetos são disponibilizados como **Open Source** para benefício da comunidade.
+Como parte da conclusão do programa, cada participante desenvolveu um **projeto original** que combina seus conhecimentos de design com os princípios aprendidos sobre Bitcoin. 
+
+**Todos os projetos são disponibilizados como Open Source** para benefício da comunidade.
 
 ---
 
@@ -38,8 +65,8 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 
 | Release | Descrição |
 |---------|-----------|
-| [Todos os Projetos](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases) | Pacote completo com todos os 14 projetos |
-| Projetos Individuais | Downloads separados por projeto |
+| [ Todos os Projetos](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases) | Pacote completo com todos os 14 projetos |
+|  Projetos Individuais | Downloads separados por projeto |
 
 ---
 
@@ -52,6 +79,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  Bitcoin Wiki
 **Autor:** Tiago  
 **Tipo:** Redesign de Site
+
 > Projeto de documentação visual sobre Bitcoin
 
 [ Ver Arquivos](./projetos/bitcoin-wiki-tiago)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/bitcoin-wiki-redesign/)
@@ -62,6 +90,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  Bitcoiner
 **Autor:** Romulo  
 **Tipo:** Identidade Visual
+
 > Identidade visual para bitcoiners
 
 [ Ver Arquivos](./projetos/bitcoiner-romulo)
@@ -74,6 +103,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  Bitcoming
 **Autor:** Caio Isquerdo  
 **Tipo:** Design Conceitual
+
 > Conceito visual sobre a jornada no Bitcoin
 
 [ Ver Arquivos](./projetos/bitcoming-caio)
@@ -84,6 +114,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  BitGrow
 **Autora:** Bruna  
 **Tipo:** App Design
+
 > Projeto focado em crescimento e educação Bitcoin
 
 [ Ver Arquivos](./projetos/bitgrow-bruna)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/bitgrow-app/)
@@ -96,6 +127,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  ColdKeys
 **Autor:** Lucas Leite  
 **Tipo:** App Design
+
 > Design para segurança e autocustódia
 
 [ Ver Arquivos](./projetos/coldkeys-lucas)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/coldkeys-app-de-auto-custodia/)
@@ -106,6 +138,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  EverChain
 **Autor:** Jared Daniel  
 **Tipo:** App Design
+
 > Identidade visual para app de herança em Bitcoin
 
 [ Ver Arquivos](./projetos/everchain-jared)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/everchain-app-de-heranca-em-bitcoin/)
@@ -118,6 +151,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  Grama
 **Autora:** Beatriz Marilian  
 **Tipo:** Design Conceitual
+
 > Design sustentável e Bitcoin
 
 [ Ver Arquivos](./projetos/grama-beatriz)
@@ -128,6 +162,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  MeuBit
 **Autor:** Pedro  
 **Tipo:** Design Conceitual
+
 > Projeto sobre a jornada pessoal no Bitcoin
 
 [ Ver Arquivos](./projetos/meubit-pedro)
@@ -140,6 +175,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  Mundo Bitcoin
 **Autora:** Tabata  
 **Tipo:** App Design
+
 > App educacional explorando o universo Bitcoin
 
 [ Ver Arquivos](./projetos/mundo-bitcoin-tabata)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/mundo-bitcoin-app-educacional/)
@@ -150,6 +186,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  Satiplay
 **Autora:** Yasmine  
 **Tipo:** App/Branding
+
 > Combinando música e satoshis
 
 [ Ver Arquivos](./projetos/satiplay-yasmine)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/satiplay-streaming-de-musica/)
@@ -162,6 +199,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  SatsArts
 **Autora:** Rita  
 **Tipo:** Design Conceitual
+
 > Arte digital e Bitcoin
 
 [ Ver Arquivos](./projetos/satsarts-rita)
@@ -172,6 +210,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  Seguro Soberano
 **Autor:** Victor Gabriel  
 **Tipo:** Vídeo + Design
+
 > Projeto completo com vídeo narrativo, trilha sonora e assets visuais
 
 [ Ver Arquivos](./projetos/seguro-soberano-victor)
@@ -184,6 +223,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  To The Moon
 **Autora:** Tatiana Ribeiro  
 **Tipo:** Jogo de Tabuleiro
+
 > Projeto visual inspirado na cultura Bitcoin
 
 [ Ver Arquivos](./projetos/to-the-moon-tatiana)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/to-the-moon-jogo-de-tabuleiro/)
@@ -194,6 +234,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  We Are Bitcoin Friendly
 **Autora:** Caroline  
 **Tipo:** Website
+
 > Promovendo adoção através do design
 
 [ Ver Arquivos](./projetos/we-are-bitcoin-friendly-caroline)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/we-are-bitcoin-friendly-site/)
@@ -206,7 +247,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 
 ##  Estrutura do Repositório
 
-```
+`
 Design-Fundamentals/
   projetos/                 # Projetos dos participantes
     bitcoin-wiki-tiago/
@@ -225,7 +266,7 @@ Design-Fundamentals/
     we-are-bitcoin-friendly-caroline/
   README.md
   LICENSE
-```
+`
 
 ---
 
@@ -235,20 +276,20 @@ Os projetos incluem diversos formatos editáveis e finalizados:
 
 | Formato | Software | Descrição |
 |---------|----------|-----------|
-| `.ai` | Adobe Illustrator | Vetores e identidade visual |
-| `.psd` | Adobe Photoshop | Composições e mockups |
-| `.fig` | Figma | Protótipos e UI design |
-| `.cdr` | CorelDRAW | Vetores alternativos |
-| `.pdf` | - | Apresentações e documentação |
-| `.mp4` | - | Vídeos e animações |
-| `.wav` | - | Trilhas e efeitos sonoros |
-| `.ttf` | - | Fontes tipográficas |
+| .ai | Adobe Illustrator | Vetores e identidade visual |
+| .psd | Adobe Photoshop | Composições e mockups |
+| .fig | Figma | Protótipos e UI design |
+| .cdr | CorelDRAW | Vetores alternativos |
+| .pdf |  | Apresentações e documentação |
+| .mp4 |  | Vídeos e animações |
+| .wav |  | Trilhas e efeitos sonoros |
+| .ttf |  | Fontes tipográficas |
 
 ---
 
 ##  Como Contribuir
 
-Este é um projeto open source! Você pode:
+Este é um projeto **open source**! Você pode:
 
 1.  **Dar uma estrela** neste repositório
 2.  **Fork** e adaptar para seus projetos
@@ -259,23 +300,23 @@ Este é um projeto open source! Você pode:
 
 ##  Licença
 
-Os projetos são disponibilizados como Open Source sob licença [MIT](./LICENSE). Por favor, dê crédito aos autores ao utilizar os materiais.
+Os projetos são disponibilizados como Open Source sob licença [MIT](./LICENSE).  
+Por favor, dê crédito aos autores ao utilizar os materiais.
 
 ---
 
-##  Contato
+##  Conecte-se
 
-**Bitcoin Creative**
+<div align="center">
 
 [![Website](https://img.shields.io/badge/Website-bitcoincreative.org-F7931A?style=for-the-badge)](https://bitcoincreative.org)
-[![Twitter](https://img.shields.io/badge/Twitter-@bitcoincreativ-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bitcoincreativ)
+[![Twitter](https://img.shields.io/badge/-@bitcoincreativ-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bitcoincreativ)
+[![Nostr](https://img.shields.io/badge/Nostr-npub1cda...c8sur-8B5CF6?style=for-the-badge)](https://njump.me/npub1cdal5mq7npz2c0tk8lq9u2h3xggpq3s0l5667n3t3rq2s435yhdqqc8sur)
 [![Email](https://img.shields.io/badge/Email-hello@bitcoincreative.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@bitcoincreative.org)
 
 ---
 
-<div align="center">
-
-**Feito com 🧡 pela comunidade Bitcoin Creative**
+**Feito com  pela comunidade Bitcoin Creative**
 
 *"Nós somos todos Satoshi"*
 
