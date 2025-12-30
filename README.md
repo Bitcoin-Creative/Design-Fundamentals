@@ -18,25 +18,25 @@
 
 ##  Sobre o Programa
 
-O **Design Fundamentals** é um programa educacional da Bitcoin Creative que capacita designers e criativos a compreenderem e se conectarem com o ecossistema Bitcoin. 
+O **Design Fundamentals** � um programa educacional da Bitcoin Creative que capacita designers e criativos a compreenderem e se conectarem com o ecossistema Bitcoin. 
 
 Ao longo do programa, os participantes aprenderam:
 -  Fundamentos do Bitcoin e sua filosofia
--  Princípios de design aplicados ao ecossistema cripto
--  Ferramentas e técnicas para criação visual
--  Como comunicar conceitos complexos de forma acessível
+-  Princ�pios de design aplicados ao ecossistema Bitcoin
+-  Ferramentas e t�cnicas para cria��o visual
+-  Como comunicar conceitos complexos de forma acess�vel
 
 ###  Projeto Final
 
-Como parte da conclusão do programa, cada participante desenvolveu um projeto original que combina seus conhecimentos de design com os princípios aprendidos sobre Bitcoin. Todos os projetos são disponibilizados como **Open Source** para benefício da comunidade.
+Como parte da conclus�o do programa, cada participante desenvolveu um projeto original que combina seus conhecimentos de design com os princ�pios aprendidos sobre Bitcoin. Todos os projetos s�o disponibilizados como **Open Source** para benef�cio da comunidade.
 
 ---
 
-##  Downloads Rápidos
+##  Downloads R�pidos
 
-> **Quer baixar os projetos sem usar Git?** Acesse a seção [Releases](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases) para downloads diretos em ZIP.
+> **Quer baixar os projetos sem usar Git?** Acesse a se��o [Releases](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases) para downloads diretos em ZIP.
 
-| Release | Descrição |
+| Release | Descri��o |
 |---------|-----------|
 | [Todos os Projetos](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases) | Pacote completo com todos os 14 projetos |
 | Projetos Individuais | Downloads separados por projeto |
@@ -52,7 +52,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  Bitcoin Wiki
 **Autor:** Tiago  
 **Tipo:** Redesign de Site
-> Projeto de documentação visual sobre Bitcoin
+> Projeto de documenta��o visual sobre Bitcoin
 
 [ Ver Arquivos](./projetos/bitcoin-wiki-tiago)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/bitcoin-wiki-redesign/)
 
@@ -84,7 +84,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  BitGrow
 **Autora:** Bruna  
 **Tipo:** App Design
-> Projeto focado em crescimento e educação Bitcoin
+> Projeto focado em crescimento e educa��o Bitcoin
 
 [ Ver Arquivos](./projetos/bitgrow-bruna)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/bitgrow-app/)
 
@@ -96,7 +96,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  ColdKeys
 **Autor:** Lucas Leite  
 **Tipo:** App Design
-> Design para segurança e autocustódia
+> Design para seguran�a e autocust�dia
 
 [ Ver Arquivos](./projetos/coldkeys-lucas)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/coldkeys-app-de-auto-custodia/)
 
@@ -106,7 +106,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  EverChain
 **Autor:** Jared Daniel  
 **Tipo:** App Design
-> Identidade visual para app de herança em Bitcoin
+> Identidade visual para app de heran�a em Bitcoin
 
 [ Ver Arquivos](./projetos/everchain-jared)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/everchain-app-de-heranca-em-bitcoin/)
 
@@ -118,7 +118,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  Grama
 **Autora:** Beatriz Marilian  
 **Tipo:** Design Conceitual
-> Design sustentável e Bitcoin
+> Design sustent�vel e Bitcoin
 
 [ Ver Arquivos](./projetos/grama-beatriz)
 
@@ -150,7 +150,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  Satiplay
 **Autora:** Yasmine  
 **Tipo:** App/Branding
-> Combinando música e satoshis
+> Combinando m�sica e satoshis
 
 [ Ver Arquivos](./projetos/satiplay-yasmine)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/satiplay-streaming-de-musica/)
 
@@ -171,8 +171,8 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 
 ###  Seguro Soberano
 **Autor:** Victor Gabriel  
-**Tipo:** Vídeo + Design
-> Projeto completo com vídeo narrativo, trilha sonora e assets visuais
+**Tipo:** V�deo + Design
+> Projeto completo com v�deo narrativo, trilha sonora e assets visuais
 
 [ Ver Arquivos](./projetos/seguro-soberano-victor)
 
@@ -196,7 +196,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 ###  We Are Bitcoin Friendly
 **Autora:** Caroline  
 **Tipo:** Website
-> Promovendo adoção através do design
+> Promovendo ado��o atrav�s do design
 
 [ Ver Arquivos](./projetos/we-are-bitcoin-friendly-caroline)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/we-are-bitcoin-friendly-site/)
 
@@ -206,7 +206,7 @@ Como parte da conclusão do programa, cada participante desenvolveu um projeto o
 
 ---
 
-##  Estrutura do Repositório
+##  Estrutura do Reposit�rio
 
 ```
 Design-Fundamentals/
@@ -227,7 +227,7 @@ Design-Fundamentals/
     we-are-bitcoin-friendly-caroline/
   assets/                   # Assets compartilhados
     thumbnails/              # Imagens de preview
-  docs/                     # Documentação
+  docs/                     # Documenta��o
     DESIGN-SYSTEM.md         # Guia de estilo visual
   README.md
   LICENSE
@@ -239,45 +239,45 @@ Design-Fundamentals/
 
 Consulte nosso [**Design System**](./docs/DESIGN-SYSTEM.md) para:
 
--  **Paleta de cores** - Cores primárias e secundárias do Bitcoin Creative
+-  **Paleta de cores** - Cores prim�rias e secund�rias do Bitcoin Creative
 -  **Tipografia** - Fontes recomendadas e hierarquia
--  **Espaçamento** - Sistema de grid e tokens
--  **Componentes** - Botões, cards e elementos UI
--  **Responsividade** - Breakpoints e adaptações
+-  **Espa�amento** - Sistema de grid e tokens
+-  **Componentes** - Bot�es, cards e elementos UI
+-  **Responsividade** - Breakpoints e adapta��es
 
 ---
 
 ##  Tipos de Arquivos
 
-Os projetos incluem diversos formatos editáveis e finalizados:
+Os projetos incluem diversos formatos edit�veis e finalizados:
 
-| Formato | Software | Descrição |
+| Formato | Software | Descri��o |
 |---------|----------|-----------|
 | `.ai` | Adobe Illustrator | Vetores e identidade visual |
-| `.psd` | Adobe Photoshop | Composições e mockups |
-| `.fig` | Figma | Protótipos e UI design |
+| `.psd` | Adobe Photoshop | Composi��es e mockups |
+| `.fig` | Figma | Prot�tipos e UI design |
 | `.cdr` | CorelDRAW | Vetores alternativos |
-| `.pdf` | - | Apresentações e documentação |
-| `.mp4` | - | Vídeos e animações |
+| `.pdf` | - | Apresenta��es e documenta��o |
+| `.mp4` | - | V�deos e anima��es |
 | `.wav` | - | Trilhas e efeitos sonoros |
-| `.ttf` | - | Fontes tipográficas |
+| `.ttf` | - | Fontes tipogr�ficas |
 
 ---
 
 ##  Como Contribuir
 
-Este é um projeto open source! Você pode:
+Este � um projeto open source! Voc� pode:
 
-1.  **Dar uma estrela** neste repositório
+1.  **Dar uma estrela** neste reposit�rio
 2.  **Fork** e adaptar para seus projetos
 3.  **Compartilhar** com a comunidade Bitcoin
-4.  **Abrir issues** com sugestões
+4.  **Abrir issues** com sugest�es
 
 ---
 
-##  Licença
+##  Licen�a
 
-Os projetos são disponibilizados como Open Source sob licença [MIT](./LICENSE). Por favor, dê crédito aos autores ao utilizar os materiais.
+Os projetos s�o disponibilizados como Open Source sob licen�a [MIT](./LICENSE). Por favor, d� cr�dito aos autores ao utilizar os materiais.
 
 ---
 
@@ -295,7 +295,7 @@ Os projetos são disponibilizados como Open Source sob licença [MIT](./LICENSE)
 
 **Feito com  pela comunidade Bitcoin Creative**
 
-*"Nós somos todos Satoshi"*
+*"N�s somos todos Satoshi"*
 
 [![Biblioteca](https://img.shields.io/badge/_Ver_Biblioteca_Completa-bitcoincreative.org/biblioteca-F7931A?style=for-the-badge)](https://bitcoincreative.org/biblioteca/)
 
