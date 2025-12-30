@@ -1,0 +1,607 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design Fundamentals | Bitcoin Creative</title>
+    <meta name="description" content="Projetos open source de design desenvolvidos no programa Design Fundamentals do Bitcoin Creative">
+    <meta property="og:title" content="Design Fundamentals | Bitcoin Creative">
+    <meta property="og:description" content="14 projetos open source de design aplicados ao ecossistema Bitcoin">
+    <meta property="og:image" content="https://bitcoincreative.org/wp-content/uploads/2025/10/og-image.png">
+    <meta property="og:url" content="https://bitcoin-creative.github.io/Design-Fundamentals/">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bitcoin-orange: #F7931A;
+            --bitcoin-black: #000000;
+            --dark-gray: #1A1A1A;
+            --light-gray: #E5E5E5;
+            --white: #FFFFFF;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bitcoin-black);
+            color: var(--white);
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        /* Header */
+        header {
+            padding: 40px 0;
+            text-align: center;
+            border-bottom: 1px solid #333;
+        }
+        
+        .logo {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--bitcoin-orange);
+            margin-bottom: 10px;
+        }
+        
+        .logo span {
+            color: var(--white);
+        }
+        
+        header h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 3rem;
+            margin: 20px 0 10px;
+        }
+        
+        header p {
+            font-size: 1.2rem;
+            color: #888;
+            max-width: 600px;
+            margin: 0 auto 30px;
+        }
+        
+        .badges {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            text-decoration: none;
+            transition: transform 0.2s;
+        }
+        
+        .badge:hover {
+            transform: translateY(-2px);
+        }
+        
+        .badge-orange {
+            background: var(--bitcoin-orange);
+            color: var(--bitcoin-black);
+        }
+        
+        .badge-outline {
+            border: 1px solid var(--bitcoin-orange);
+            color: var(--bitcoin-orange);
+        }
+        
+        /* Stats */
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 60px;
+            padding: 40px 0;
+            border-bottom: 1px solid #333;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 3rem;
+            font-weight: 700;
+            color: var(--bitcoin-orange);
+        }
+        
+        .stat-label {
+            color: #888;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        /* About */
+        .about {
+            padding: 60px 0;
+            text-align: center;
+        }
+        
+        .about h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+        
+        .about blockquote {
+            font-size: 1.3rem;
+            color: var(--bitcoin-orange);
+            font-style: italic;
+            max-width: 800px;
+            margin: 0 auto 20px;
+            padding: 20px;
+            border-left: 4px solid var(--bitcoin-orange);
+            background: rgba(247, 147, 26, 0.1);
+            text-align: left;
+        }
+        
+        .pillars {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 40px;
+        }
+        
+        .pillar {
+            background: var(--dark-gray);
+            padding: 30px;
+            border-radius: 12px;
+            text-align: left;
+        }
+        
+        .pillar-icon {
+            font-size: 2rem;
+            margin-bottom: 15px;
+        }
+        
+        .pillar h3 {
+            color: var(--bitcoin-orange);
+            margin-bottom: 10px;
+        }
+        
+        /* Projects */
+        .projects {
+            padding: 60px 0;
+        }
+        
+        .projects h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 2rem;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+        }
+        
+        .project-card {
+            background: var(--dark-gray);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+            border: 1px solid #333;
+        }
+        
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 40px rgba(247, 147, 26, 0.2);
+            border-color: var(--bitcoin-orange);
+        }
+        
+        .project-image {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(135deg, #1a1a1a 0%, #333 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+        }
+        
+        .project-content {
+            padding: 25px;
+        }
+        
+        .project-type {
+            font-size: 0.8rem;
+            color: var(--bitcoin-orange);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+        
+        .project-title {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.4rem;
+            margin-bottom: 8px;
+        }
+        
+        .project-author {
+            color: #888;
+            font-size: 0.9rem;
+            margin-bottom: 12px;
+        }
+        
+        .project-description {
+            color: #aaa;
+            font-size: 0.95rem;
+            margin-bottom: 20px;
+        }
+        
+        .project-links {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .project-link {
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            text-decoration: none;
+            transition: background 0.2s;
+        }
+        
+        .project-link-primary {
+            background: var(--bitcoin-orange);
+            color: var(--bitcoin-black);
+        }
+        
+        .project-link-secondary {
+            border: 1px solid #555;
+            color: var(--white);
+        }
+        
+        .project-link:hover {
+            opacity: 0.9;
+        }
+        
+        /* Footer */
+        footer {
+            padding: 60px 0;
+            text-align: center;
+            border-top: 1px solid #333;
+        }
+        
+        .social-links {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+        
+        .social-link {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: var(--dark-gray);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            font-size: 1.5rem;
+            transition: background 0.2s;
+        }
+        
+        .social-link:hover {
+            background: var(--bitcoin-orange);
+        }
+        
+        footer p {
+            color: #888;
+        }
+        
+        footer .heart {
+            color: var(--bitcoin-orange);
+        }
+        
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+            
+            .stats {
+                flex-direction: column;
+                gap: 30px;
+            }
+            
+            .projects-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">Bitcoin <span>Creative</span></div>
+            <h1> Design Fundamentals</h1>
+            <p>Fundamentos essenciais de design e design thinking aplicados ao universo Bitcoin</p>
+            <div class="badges">
+                <a href="https://bitcoincreative.org/biblioteca/" class="badge badge-orange"> Ver Biblioteca</a>
+                <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals" class="badge badge-outline"> GitHub</a>
+                <a href="https://njump.me/npub1cdal5mq7npz2c0tk8lq9u2h3xggpq3s0l5667n3t3rq2s435yhdqqc8sur" class="badge badge-outline"> Nostr</a>
+            </div>
+        </div>
+    </header>
+    
+    <section class="stats">
+        <div class="stat">
+            <div class="stat-number">14</div>
+            <div class="stat-label">Projetos</div>
+        </div>
+        <div class="stat">
+            <div class="stat-number">14</div>
+            <div class="stat-label">Designers</div>
+        </div>
+        <div class="stat">
+            <div class="stat-number">100%</div>
+            <div class="stat-label">Open Source</div>
+        </div>
+    </section>
+    
+    <section class="about">
+        <div class="container">
+            <h2> Sobre o Bitcoin Creative</h2>
+            <blockquote>
+                Somos um studio-lab open source que forma, conecta e impulsiona profissionais nas áreas de design, inteligência artificial e marketing com foco na indústria do Bitcoin.
+            </blockquote>
+            <div class="pillars">
+                <div class="pillar">
+                    <div class="pillar-icon"></div>
+                    <h3>Treinamento com especialistas</h3>
+                    <p>Domine as habilidades que a indústria do Bitcoin precisa</p>
+                </div>
+                <div class="pillar">
+                    <div class="pillar-icon"></div>
+                    <h3>Aprenda projetando</h3>
+                    <p>Cada programa tem teoria e prática, para você aprender fazendo</p>
+                </div>
+                <div class="pillar">
+                    <div class="pillar-icon"></div>
+                    <h3>Acelere sua carreira</h3>
+                    <p>Ganhe certificados confiáveis pelas melhores equipes do setor</p>
+                </div>
+                <div class="pillar">
+                    <div class="pillar-icon"></div>
+                    <h3>Prêmio em Bitcoin</h3>
+                    <p>O projeto final em destaque recebe premiação em Bitcoin</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="projects">
+        <div class="container">
+            <h2> Projetos dos Participantes</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">Redesign de Site</div>
+                        <h3 class="project-title">Bitcoin Wiki</h3>
+                        <p class="project-author">por Tiago Katsumi</p>
+                        <p class="project-description">Portal de conteúdo e referência sobre Bitcoin focado em organizar conhecimento e ajudar no onboarding de novos usuários.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/bitcoin-wiki-tiago" class="project-link project-link-primary"> Ver Arquivos</a>
+                            <a href="https://bitcoincreative.org/biblioteca/bitcoin-wiki-redesign/" class="project-link project-link-secondary"> Biblioteca</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">App Design</div>
+                        <h3 class="project-title">BitGrow</h3>
+                        <p class="project-author">por Bruna Czarnobay</p>
+                        <p class="project-description">App de educação financeira familiar com foco em Bitcoin, para ajudar pais a ensinar filhos sobre proteção patrimonial.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/bitgrow-bruna" class="project-link project-link-primary"> Ver Arquivos</a>
+                            <a href="https://bitcoincreative.org/biblioteca/bitgrow-app/" class="project-link project-link-secondary"> Biblioteca</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">App Design</div>
+                        <h3 class="project-title">ColdKeys</h3>
+                        <p class="project-author">por Lucas Leite</p>
+                        <p class="project-description">App para auto custódia e assinatura de transações em modo offline, transformando Android em cold wallet.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/coldkeys-lucas" class="project-link project-link-primary"> Ver Arquivos</a>
+                            <a href="https://bitcoincreative.org/biblioteca/coldkeys-app-de-auto-custodia/" class="project-link project-link-secondary"> Biblioteca</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">App Design</div>
+                        <h3 class="project-title">EverChain</h3>
+                        <p class="project-author">por Jared Daniel</p>
+                        <p class="project-description">Serviço de herança digital em Bitcoin para transferir patrimônio de forma simples e segura para herdeiros.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/everchain-jared" class="project-link project-link-primary"> Ver Arquivos</a>
+                            <a href="https://bitcoincreative.org/biblioteca/everchain-app-de-heranca-em-bitcoin/" class="project-link project-link-secondary"> Biblioteca</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">App Design</div>
+                        <h3 class="project-title">Mundo Bitcoin</h3>
+                        <p class="project-author">por Tabata Miranda</p>
+                        <p class="project-description">App educacional gamificado para ensinar Bitcoin em português, inspirado no Duolingo.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/mundo-bitcoin-tabata" class="project-link project-link-primary"> Ver Arquivos</a>
+                            <a href="https://bitcoincreative.org/biblioteca/mundo-bitcoin-app-educacional/" class="project-link project-link-secondary"> Biblioteca</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">App/Branding</div>
+                        <h3 class="project-title">Satiplay</h3>
+                        <p class="project-author">por Yasmine Coutinho</p>
+                        <p class="project-description">Plataforma de streaming de música com pagamentos nativos em Bitcoin via Lightning Network.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/satiplay-yasmine" class="project-link project-link-primary"> Ver Arquivos</a>
+                            <a href="https://bitcoincreative.org/biblioteca/satiplay-streaming-de-musica/" class="project-link project-link-secondary"> Biblioteca</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">Jogo de Tabuleiro</div>
+                        <h3 class="project-title">To The Moon</h3>
+                        <p class="project-author">por Tatiana Ribeiro</p>
+                        <p class="project-description">Jogo de tabuleiro offline para ensinar Bitcoin de forma clara e divertida, usando humor e interação.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/to-the-moon-tatiana" class="project-link project-link-primary"> Ver Arquivos</a>
+                            <a href="https://bitcoincreative.org/biblioteca/to-the-moon-jogo-de-tabuleiro/" class="project-link project-link-secondary"> Biblioteca</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">Website</div>
+                        <h3 class="project-title">We Are Bitcoin Friendly</h3>
+                        <p class="project-author">por Caroline Capovilla</p>
+                        <p class="project-description">Sistema de sinalização padronizada para estabelecimentos que aceitam Bitcoin, com landing page educativa.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/we-are-bitcoin-friendly-caroline" class="project-link project-link-primary"> Ver Arquivos</a>
+                            <a href="https://bitcoincreative.org/biblioteca/we-are-bitcoin-friendly-site/" class="project-link project-link-secondary"> Biblioteca</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">Identidade Visual</div>
+                        <h3 class="project-title">Bitcoiner</h3>
+                        <p class="project-author">por Romulo</p>
+                        <p class="project-description">Identidade visual para bitcoiners.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/bitcoiner-romulo" class="project-link project-link-primary"> Ver Arquivos</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">Design Conceitual</div>
+                        <h3 class="project-title">Bitcoming</h3>
+                        <p class="project-author">por Caio Isquerdo</p>
+                        <p class="project-description">Conceito visual sobre a jornada no Bitcoin.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/bitcoming-caio" class="project-link project-link-primary"> Ver Arquivos</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">Design Conceitual</div>
+                        <h3 class="project-title">Grama</h3>
+                        <p class="project-author">por Beatriz Marilian</p>
+                        <p class="project-description">Design sustentável e Bitcoin.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/grama-beatriz" class="project-link project-link-primary"> Ver Arquivos</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">Design Conceitual</div>
+                        <h3 class="project-title">MeuBit</h3>
+                        <p class="project-author">por Pedro</p>
+                        <p class="project-description">Projeto sobre a jornada pessoal no Bitcoin.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/meubit-pedro" class="project-link project-link-primary"> Ver Arquivos</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">Design Conceitual</div>
+                        <h3 class="project-title">SatsArts</h3>
+                        <p class="project-author">por Rita</p>
+                        <p class="project-description">Arte digital e Bitcoin.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/satsarts-rita" class="project-link project-link-primary"> Ver Arquivos</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <div class="project-type">Vídeo + Design</div>
+                        <h3 class="project-title">Seguro Soberano</h3>
+                        <p class="project-author">por Victor Gabriel</p>
+                        <p class="project-description">Projeto completo com vídeo narrativo, trilha sonora original e assets visuais.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/Bitcoin-Creative/Design-Fundamentals/tree/main/projetos/seguro-soberano-victor" class="project-link project-link-primary"> Ver Arquivos</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <footer>
+        <div class="container">
+            <div class="social-links">
+                <a href="https://bitcoincreative.org" class="social-link" title="Website"></a>
+                <a href="https://x.com/bitcoincreativ" class="social-link" title="Twitter/X"></a>
+                <a href="https://njump.me/npub1cdal5mq7npz2c0tk8lq9u2h3xggpq3s0l5667n3t3rq2s435yhdqqc8sur" class="social-link" title="Nostr"></a>
+                <a href="https://github.com/Bitcoin-Creative" class="social-link" title="GitHub"></a>
+                <a href="mailto:hello@bitcoincreative.org" class="social-link" title="Email"></a>
+            </div>
+            <p>Feito com <span class="heart"></span> pela comunidade Bitcoin Creative</p>
+            <p style="margin-top: 10px; font-size: 0.9rem;"><em>"Nós somos todos Satoshi"</em></p>
+            <p style="margin-top: 20px; font-size: 0.8rem; color: #666;">MIT License | Bitcoin Creative  2025</p>
+        </div>
+    </footer>
+</body>
+</html>

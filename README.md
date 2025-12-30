@@ -17,7 +17,13 @@
 
 <br>
 
-[ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/)  [ Releases](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases)  [ Design System](https://github.com/Bitcoin-Creative/Design-System)
+![GitHub stars](https://img.shields.io/github/stars/Bitcoin-Creative/Design-Fundamentals?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Bitcoin-Creative/Design-Fundamentals?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Bitcoin-Creative/Design-Fundamentals?style=social)
+
+<br>
+
+[ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/)  [ Releases](https://github.com/Bitcoin-Creative/Design-Fundamentals/releases)  [ Design System](https://github.com/Bitcoin-Creative/Design-System)  [ GitHub Pages](https://bitcoin-creative.github.io/Design-Fundamentals/)
 
 </div>
 
@@ -77,47 +83,23 @@ Como parte da conclusão do programa, cada participante desenvolveu um **projeto
 <td width="50%" valign="top">
 
 ###  Bitcoin Wiki
-**Autor:** Tiago  
+**Autor:** Tiago Katsumi  
 **Tipo:** Redesign de Site
 
-> Projeto de documentação visual sobre Bitcoin
+> Portal de conteúdo e referência sobre Bitcoin focado em organizar conhecimento e ajudar no onboarding de novos usuários, com identidade visual vintage e emocional.
 
-[ Ver Arquivos](./projetos/bitcoin-wiki-tiago)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/bitcoin-wiki-redesign/)
-
-</td>
-<td width="50%" valign="top">
-
-###  Bitcoiner
-**Autor:** Romulo  
-**Tipo:** Identidade Visual
-
-> Identidade visual para bitcoiners
-
-[ Ver Arquivos](./projetos/bitcoiner-romulo)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  Bitcoming
-**Autor:** Caio Isquerdo  
-**Tipo:** Design Conceitual
-
-> Conceito visual sobre a jornada no Bitcoin
-
-[ Ver Arquivos](./projetos/bitcoming-caio)
+[ Ver Arquivos](./projetos/bitcoin-wiki-tiago)  [ Biblioteca](https://bitcoincreative.org/biblioteca/bitcoin-wiki-redesign/)
 
 </td>
 <td width="50%" valign="top">
 
 ###  BitGrow
-**Autora:** Bruna  
+**Autora:** Bruna Czarnobay  
 **Tipo:** App Design
 
-> Projeto focado em crescimento e educação Bitcoin
+> App de educação financeira familiar com foco em Bitcoin, para ajudar pais e responsáveis a ensinar os filhos a proteger e administrar valor.
 
-[ Ver Arquivos](./projetos/bitgrow-bruna)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/bitgrow-app/)
+[ Ver Arquivos](./projetos/bitgrow-bruna)  [ Biblioteca](https://bitcoincreative.org/biblioteca/bitgrow-app/)
 
 </td>
 </tr>
@@ -128,9 +110,9 @@ Como parte da conclusão do programa, cada participante desenvolveu um **projeto
 **Autor:** Lucas Leite  
 **Tipo:** App Design
 
-> Design para segurança e autocustódia
+> App simples para auto custódia e assinatura de transações em modo totalmente offline, transformando Android em dispositivo de assinatura seguro.
 
-[ Ver Arquivos](./projetos/coldkeys-lucas)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/coldkeys-app-de-auto-custodia/)
+[ Ver Arquivos](./projetos/coldkeys-lucas)  [ Biblioteca](https://bitcoincreative.org/biblioteca/coldkeys-app-de-auto-custodia/)
 
 </td>
 <td width="50%" valign="top">
@@ -139,33 +121,9 @@ Como parte da conclusão do programa, cada participante desenvolveu um **projeto
 **Autor:** Jared Daniel  
 **Tipo:** App Design
 
-> Identidade visual para app de herança em Bitcoin
+> Serviço de herança digital em Bitcoin para transferir patrimônio de forma simples e segura para herdeiros ou pessoas de confiança.
 
-[ Ver Arquivos](./projetos/everchain-jared)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/everchain-app-de-heranca-em-bitcoin/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  Grama
-**Autora:** Beatriz Marilian  
-**Tipo:** Design Conceitual
-
-> Design sustentável e Bitcoin
-
-[ Ver Arquivos](./projetos/grama-beatriz)
-
-</td>
-<td width="50%" valign="top">
-
-###  MeuBit
-**Autor:** Pedro  
-**Tipo:** Design Conceitual
-
-> Projeto sobre a jornada pessoal no Bitcoin
-
-[ Ver Arquivos](./projetos/meubit-pedro)
+[ Ver Arquivos](./projetos/everchain-jared)  [ Biblioteca](https://bitcoincreative.org/biblioteca/everchain-app-de-heranca-em-bitcoin/)
 
 </td>
 </tr>
@@ -173,47 +131,23 @@ Como parte da conclusão do programa, cada participante desenvolveu um **projeto
 <td width="50%" valign="top">
 
 ###  Mundo Bitcoin
-**Autora:** Tabata  
+**Autora:** Tabata Miranda  
 **Tipo:** App Design
 
-> App educacional explorando o universo Bitcoin
+> App educacional gamificado e open source para ensinar Bitcoin em português de forma simples e divertida, inspirado no Duolingo.
 
-[ Ver Arquivos](./projetos/mundo-bitcoin-tabata)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/mundo-bitcoin-app-educacional/)
+[ Ver Arquivos](./projetos/mundo-bitcoin-tabata)  [ Biblioteca](https://bitcoincreative.org/biblioteca/mundo-bitcoin-app-educacional/)
 
 </td>
 <td width="50%" valign="top">
 
 ###  Satiplay
-**Autora:** Yasmine  
+**Autora:** Yasmine Coutinho  
 **Tipo:** App/Branding
 
-> Combinando música e satoshis
+> Plataforma de streaming de música e podcasts com pagamentos nativos em Bitcoin via Lightning, com modelo mais justo para artistas.
 
-[ Ver Arquivos](./projetos/satiplay-yasmine)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/satiplay-streaming-de-musica/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  SatsArts
-**Autora:** Rita  
-**Tipo:** Design Conceitual
-
-> Arte digital e Bitcoin
-
-[ Ver Arquivos](./projetos/satsarts-rita)
-
-</td>
-<td width="50%" valign="top">
-
-###  Seguro Soberano
-**Autor:** Victor Gabriel  
-**Tipo:** Vídeo + Design
-
-> Projeto completo com vídeo narrativo, trilha sonora e assets visuais
-
-[ Ver Arquivos](./projetos/seguro-soberano-victor)
+[ Ver Arquivos](./projetos/satiplay-yasmine)  [ Biblioteca](https://bitcoincreative.org/biblioteca/satiplay-streaming-de-musica/)
 
 </td>
 </tr>
@@ -224,20 +158,92 @@ Como parte da conclusão do programa, cada participante desenvolveu um **projeto
 **Autora:** Tatiana Ribeiro  
 **Tipo:** Jogo de Tabuleiro
 
-> Projeto visual inspirado na cultura Bitcoin
+> Jogo de tabuleiro offline para ensinar Bitcoin de forma clara e divertida, usando humor e interação para combater a desinformação.
 
-[ Ver Arquivos](./projetos/to-the-moon-tatiana)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/to-the-moon-jogo-de-tabuleiro/)
+[ Ver Arquivos](./projetos/to-the-moon-tatiana)  [ Biblioteca](https://bitcoincreative.org/biblioteca/to-the-moon-jogo-de-tabuleiro/)
 
 </td>
 <td width="50%" valign="top">
 
 ###  We Are Bitcoin Friendly
-**Autora:** Caroline  
+**Autora:** Caroline Capovilla  
 **Tipo:** Website
 
-> Promovendo adoção através do design
+> Sistema de sinalização padronizada + educação para estabelecimentos, com QR codes que levam a landing pages educativas.
 
-[ Ver Arquivos](./projetos/we-are-bitcoin-friendly-caroline)  [ Ver na Biblioteca](https://bitcoincreative.org/biblioteca/we-are-bitcoin-friendly-site/)
+[ Ver Arquivos](./projetos/we-are-bitcoin-friendly-caroline)  [ Biblioteca](https://bitcoincreative.org/biblioteca/we-are-bitcoin-friendly-site/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+###  Bitcoiner
+**Autor:** Romulo  
+**Tipo:** Identidade Visual
+
+> Identidade visual para bitcoiners.
+
+[ Ver Arquivos](./projetos/bitcoiner-romulo)
+
+</td>
+<td width="50%" valign="top">
+
+###  Bitcoming
+**Autor:** Caio Isquerdo  
+**Tipo:** Design Conceitual
+
+> Conceito visual sobre a jornada no Bitcoin.
+
+[ Ver Arquivos](./projetos/bitcoming-caio)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+###  Grama
+**Autora:** Beatriz Marilian  
+**Tipo:** Design Conceitual
+
+> Design sustentável e Bitcoin.
+
+[ Ver Arquivos](./projetos/grama-beatriz)
+
+</td>
+<td width="50%" valign="top">
+
+###  MeuBit
+**Autor:** Pedro  
+**Tipo:** Design Conceitual
+
+> Projeto sobre a jornada pessoal no Bitcoin.
+
+[ Ver Arquivos](./projetos/meubit-pedro)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+###  SatsArts
+**Autora:** Rita  
+**Tipo:** Design Conceitual
+
+> Arte digital e Bitcoin.
+
+[ Ver Arquivos](./projetos/satsarts-rita)
+
+</td>
+<td width="50%" valign="top">
+
+###  Seguro Soberano
+**Autor:** Victor Gabriel  
+**Tipo:** Vídeo + Design
+
+> Projeto completo com vídeo narrativo, trilha sonora original e assets visuais sobre soberania financeira.
+
+[ Ver Arquivos](./projetos/seguro-soberano-victor)
 
 </td>
 </tr>
@@ -249,6 +255,10 @@ Como parte da conclusão do programa, cada participante desenvolveu um **projeto
 
 `
 Design-Fundamentals/
+  assets/                   # Recursos visuais
+    social-preview.svg       # Imagem para compartilhamento
+  docs/                     # GitHub Pages
+    index.html               # Página web do projeto
   projetos/                 # Projetos dos participantes
     bitcoin-wiki-tiago/
     bitcoiner-romulo/
@@ -264,6 +274,7 @@ Design-Fundamentals/
     seguro-soberano-victor/
     to-the-moon-tatiana/
     we-are-bitcoin-friendly-caroline/
+  CONTRIBUTING.md           # Guia de contribuição
   README.md
   LICENSE
 `
@@ -289,7 +300,7 @@ Os projetos incluem diversos formatos editáveis e finalizados:
 
 ##  Como Contribuir
 
-Este é um projeto **open source**! Você pode:
+Este é um projeto **open source**! Veja o [CONTRIBUTING.md](./CONTRIBUTING.md) para detalhes.
 
 1.  **Dar uma estrela** neste repositório
 2.  **Fork** e adaptar para seus projetos
@@ -299,6 +310,8 @@ Este é um projeto **open source**! Você pode:
 ---
 
 ##  Licença
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Os projetos são disponibilizados como Open Source sob licença [MIT](./LICENSE).  
 Por favor, dê crédito aos autores ao utilizar os materiais.
